@@ -12,15 +12,13 @@ Ce projet est un petit site web personnel composé de deux pages :
 
 ## URL
 
-1.  dépôt :
+
    ```bash
     https://github.com/oumar-cloud/formation-html.git
-
+   ```
+```bash
     https://oumar-cloud.github.io/formation-html/
    ```
-2. Ouvrir le projet dans **VS Code** ou un autre éditeur de texte.
-3. Lancer le fichier `index.html` dans un navigateur.
-
 
 
 ## Auteur
